@@ -1,0 +1,12 @@
+{
+  "name": "Linux Soru Bankası",
+  "description": "Tutev Linux Topluluğu | Linux Soru Bankası Projesi",
+  "version": "1.0.0",
+  "homepage": "https://github.com/tutevlinux/linuxsorubankasi",
+  "dependencies": {
+    "angular": "latest",
+    "angular-route": "latest",
+    "angular-resource": "latest",
+    "bootstrap": "latest"
+  }
+}
